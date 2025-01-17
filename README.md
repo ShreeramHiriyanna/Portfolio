@@ -8,28 +8,38 @@
 
 ## Work Experience
 <details>
-<summary> **Data Analyst @ Illinois Institute of Technology (_Apr 2023 - Dec 2024_) **</summary>
-* Engineered a Python-based ETL pipeline to preprocess datasets with 10,000+ records, improving analytics efficiency by 30%
-*  Executed multi-variable trend analysis on geographic and educational data, enhancing decision-making efficiency by 25%
-* Visualized insights for stakeholders through dynamic Tableau dashboards
-* Redesigned the student check-in process, reducing manual errors and saving $20,000 annually with a fully digital solution
+<summary><strong>Data Analyst @ Illinois Institute of Technology (<i>Apr 2023 - Dec 2024</i>)</strong></summary>
+
+- Engineered a Python-based ETL pipeline to preprocess datasets with 10,000+ records, improving analytics efficiency by 30%
+- Executed multi-variable trend analysis on geographic and educational data, enhancing decision-making efficiency by 25%
+- Visualized insights for stakeholders through dynamic Tableau dashboards
+- Redesigned the student check-in process, reducing manual errors and saving $20,000 annually with a fully digital solution
+
 </details>
 
-**Senior HR Data Analyst @ TheMathCompany (_Feb 2022 - Oct 2022_)**
+<br>
+
 <details>
-<summary>Click to expand</summary>
+<summary><strong>Senior HR Data Analyst @ TheMathCompany (<i>Feb 2022 - Oct 2022</i>)</strong></summary>
+
 - Extracted and analyzed recruitment datasets using SQL, driving a 20% improvement in recruitment performance
 - Built interactive Tableau dashboards and Excel reports to streamline workflows, saving 20 hours monthly in manual work
 - Proposed and implemented impactful process changes, enhancing hiring cycle efficiency and reporting structures
+
 </details>
 
-**HR Data Analyst @ Crowdstaffing (_Oct 2018 - Feb 2022_)**
+<br>
+
 <details>
-<summary>Click to expand</summary>
+<summary><strong>HR Data Analyst @ Crowdstaffing (<i>Oct 2018 - Feb 2022</i>)</strong></summary>
+
 - Conducted market research using SQL and Excel, uncovering insights that boosted revenue by $50,000
 - Transformed talent records with advanced SQL scripts, improving data accuracy by 20%
 - Developed workforce analytics reports with predictive insights, empowering leadership with evidence-based decisions
+
 </details>
+
+<br>
 
 ## Projects
 **Data Analytics Capstone Project**
