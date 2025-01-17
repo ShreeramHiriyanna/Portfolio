@@ -63,3 +63,14 @@ Efficiently preparing raw datasets is essential for accurate insights. In this p
 Tech Stack: SQL (MySQL)
 
 [Discover more](https://github.com/ShreeramHiriyanna/EDA_SQL_LayoffsData)
+
+**Insights Unlocked: Data Professional Survey Dashboard**
+
+Transforming raw survey data into actionable insights, this project provides a comprehensive analysis of the data professional landscape using Power BI. The interactive dashboard delivers key insights into demographics, job roles, programming preferences, and satisfaction levels
+- Cleaned and standardized raw survey data for clarity and consistency
+- Created advanced visualizations, including treemaps, stacked charts, and gauges, to illustrate survey findings
+- Delivered actionable insights into average salaries, programming preferences, and work-life balance among data professionals.
+
+Tech Stack: Power BI
+
+![alt text](Assets/PBI.png)
