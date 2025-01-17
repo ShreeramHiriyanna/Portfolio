@@ -42,7 +42,7 @@
 <br>
 
 ## Projects
-**Data Analytics Capstone Project**
+**Project 1: Data Analytics Capstone Project**
 
 Predicting user churn is critical for businesses to retain their customers and optimize growth. In this project, I built a machine learning model called User Churn Prediction Model to predict user churn for the Waze app, identifying who is likely to churn, why, and when
 - Conducted data cleaning, exploratory analysis, and hypothesis testing to uncover patterns in user behavior
@@ -53,7 +53,7 @@ Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
 
 [Discover more](https://github.com/ShreeramHiriyanna/Data_Analytics_Capstone_Project)
 
-**Workforce Trends: Data Cleaning and Insights on Layoffs**
+**Project 2: Workforce Trends - Data Cleaning and Insights on Layoffs**
 
 Efficiently preparing raw datasets is essential for accurate insights. In this project, I cleaned and analyzed a layoffs dataset to uncover trends in company, industry, and country-wide layoffs, enabling data-driven decision-making
 - Addressed duplicates, standardized formats, and resolved null values to ensure data integrity
@@ -64,7 +64,7 @@ Tech Stack: SQL (MySQL)
 
 [Discover more](https://github.com/ShreeramHiriyanna/EDA_SQL_LayoffsData)
 
-**Insights Unlocked: Data Professional Survey Dashboard**
+**Project 3: Insights Unlocked - Data Professional Survey Dashboard**
 
 Transforming raw survey data into actionable insights, this project provides a comprehensive analysis of the data professional landscape using Power BI. The interactive dashboard delivers key insights into demographics, job roles, programming preferences, and satisfaction levels
 - Cleaned and standardized raw survey data for clarity and consistency
