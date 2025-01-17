@@ -4,7 +4,7 @@
 **Certifications:** Google Advanced Data Analytics, Certified Scrum Product Owner
 
 ## Education
-- Master of Engineering Management       Illinois Tech (_Dec 2024_)
+- Master of Engineering Management;&nbsp;Illinois Tech (_Dec 2024_)
 
 ## Work Experience
 <details>
