@@ -8,7 +8,7 @@
 
 ## Work Experience
 <details>
-<summary>**Data Analyst @ Illinois Institute of Technology (_Apr 2023 - Dec 2024_)**</summary>
+<summary> **Data Analyst @ Illinois Institute of Technology (_Apr 2023 - Dec 2024_) **</summary>
 * Engineered a Python-based ETL pipeline to preprocess datasets with 10,000+ records, improving analytics efficiency by 30%
 *  Executed multi-variable trend analysis on geographic and educational data, enhancing decision-making efficiency by 25%
 * Visualized insights for stakeholders through dynamic Tableau dashboards
