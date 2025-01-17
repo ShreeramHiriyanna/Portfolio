@@ -7,13 +7,12 @@
 - Master of Engineering Management | Illinois Tech (_Dec 2024_)
 
 ## Work Experience
-**Data Analyst @ Illinois Institute of Technology (_Apr 2023 - Dec 2024_)**
 <details>
-<summary>Click to expand</summary>
-- Engineered a Python-based ETL pipeline to preprocess datasets with 10,000+ records, improving analytics efficiency by 30%
-- Executed multi-variable trend analysis on geographic and educational data, enhancing decision-making efficiency by 25%
-- Visualized insights for stakeholders through dynamic Tableau dashboards
-- Redesigned the student check-in process, reducing manual errors and saving $20,000 annually with a fully digital solution
+<summary>**Data Analyst @ Illinois Institute of Technology (_Apr 2023 - Dec 2024_)**</summary>
+* Engineered a Python-based ETL pipeline to preprocess datasets with 10,000+ records, improving analytics efficiency by 30%
+*  Executed multi-variable trend analysis on geographic and educational data, enhancing decision-making efficiency by 25%
+* Visualized insights for stakeholders through dynamic Tableau dashboards
+* Redesigned the student check-in process, reducing manual errors and saving $20,000 annually with a fully digital solution
 </details>
 
 **Senior HR Data Analyst @ TheMathCompany (_Feb 2022 - Oct 2022_)**
