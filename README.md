@@ -17,8 +17,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><strong>Senior HR Data Analyst @ TheMathCompany (<i>Feb 2022 - Oct 2022</i>)</strong></summary>
 
@@ -28,8 +26,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><strong>HR Data Analyst @ Crowdstaffing (<i>Oct 2018 - Feb 2022</i>)</strong></summary>
 
@@ -38,8 +34,6 @@
 - Developed workforce analytics reports with predictive insights, empowering leadership with evidence-based decisions
 
 </details>
-
-<br>
 
 ## Projects
 **Data Analytics Capstone Project**
