@@ -1,5 +1,6 @@
 # Data Analyst
 **Technical Skills:** Python, SQL, AWS, Tableau
+
 **Certifications:** Google Advanced Data Analytics, Certified Scrum Product Owner
 
 ## Education
