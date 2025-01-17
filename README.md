@@ -16,7 +16,7 @@
   <li>Redesigned the student check-in process, reducing manual errors and saving $20,000 annually with a fully digital solution</li>
 </ul>
 </details>
-<br>
+
 <details>
 <summary><strong>Senior HR Data Analyst @ TheMathCompany (<i>Feb 2022 - Oct 2022</i>)</strong></summary>
 <ul>
@@ -25,7 +25,7 @@
   <li>Proposed and implemented impactful process changes, enhancing hiring cycle efficiency and reporting structures</li>
 </ul>
 </details>
-<br>
+
 <details>
 <summary><strong>HR Data Analyst @ Crowdstaffing (<i>Oct 2018 - Feb 2022</i>)</strong></summary>
 <ul>
@@ -34,7 +34,6 @@
   <li>Developed workforce analytics reports with predictive insights, empowering leadership with evidence-based decisions</li>
 </ul>
 </details>
-<br>
 
 ## Projects
 **Data Analytics Capstone Project**
