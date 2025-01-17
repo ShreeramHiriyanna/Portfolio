@@ -33,3 +33,13 @@ Predicting user churn is critical for businesses to retain their customers and o
 Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
 
 [Discover more](https://github.com/ShreeramHiriyanna/Data_Analytics_Capstone_Project)
+
+**Workforce Trends: Data Cleaning and Insights on Layoffs**
+Efficiently preparing raw datasets is essential for accurate insights. In this project, I cleaned and analyzed a layoffs dataset to uncover trends in company, industry, and country-wide layoffs, enabling data-driven decision-making
+- Addressed duplicates, standardized formats, and resolved null values to ensure data integrity
+- Conducted exploratory analysis to reveal insights into layoff trends, including temporal patterns, industry impacts, and rolling summations
+- Created structured datasets and actionable visualizations for strategic insights
+
+Tech Stack: SQL (MySQL)
+
+[Discover more](https://github.com/ShreeramHiriyanna/EDA_SQL_LayoffsData)
