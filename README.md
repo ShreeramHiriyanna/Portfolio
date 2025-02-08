@@ -36,7 +36,7 @@
 <br>
 
 <details>
-<summary><strong>Senior HR Data Analyst @ TheMathCompany (<i>Feb 2022 - Oct 2022</i>)</strong></summary>
+<summary><strong>Senior Data Analyst @ TheMathCompany (<i>Feb 2022 - Oct 2022</i>)</strong></summary>
 <ul>
   <li>Modelled recruitment KPIs (referrals, cycle time) via SQL analysis, boosting hiring efficiency 20% through workflow redesign</li>
   <li>Designed Excel dashboards to surface hiring bottlenecks, cutting manual reporting 20hrs/month and enabling real-time optimization</li>
@@ -47,7 +47,7 @@
 <br>
 
 <details>
-<summary><strong>HR Data Analyst @ Crowdstaffing (<i>Oct 2018 - Feb 2022</i>)</strong></summary>
+<summary><strong>Data Analyst @ Crowdstaffing (<i>Oct 2018 - Feb 2022</i>)</strong></summary>
 <ul>
   <li>Optimized recruitment strategies via SQL/Excel market analysis, driving $50K revenue growth through targeted talent sourcing000</li>
   <li>Engineered ETL pipelines to standardize talent records, enhancing data accuracy by 20% for cross-departmental reporting</li>
