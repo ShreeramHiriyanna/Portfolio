@@ -16,7 +16,6 @@
 <ul>
   <li>Prototyped a RAG chatbot using LangChain and Hugging Face, aligning responses with webpages to improve accuracy by 30%</li>
   <li>Developed a Python/ChromaDB knowledge hub with semantic search, cutting query resolution time by 3x for departmental FAQs</li>
-  <li>Visualized insights for stakeholders through dynamic Tableau dashboards</li>
   <li>Deployed chatbot integration with FastAPI, PostgreSQL, and cloud storage, driving a 50% increase in self-service resolution rates</li>
 </ul>
 </details>
@@ -28,7 +27,6 @@
 <ul>
   <li>Built an ETL pipeline using Python (Pandas/NumPy) to cut down manual effort by improving operational efficiency by 20%</li>
   <li>Conducted analysis using Python, identifying patterns that improved decision-making by 25%, visualized through Tableau dashboards</li>
-  <li>Visualized insights for stakeholders through dynamic Tableau dashboards</li>
   <li>Redesigned the check-in process by digitizing workflows and adding new features, reducing errors and saving $20,000 annually</li>
 </ul>
 </details>
