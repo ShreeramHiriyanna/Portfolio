@@ -2,10 +2,10 @@
 **Technical Skills:** Python, SQL, AWS, Tableau
 
 **Certifications:**
-- [AWS Certified AI Practitioner]https://www.credly.com/badges/af46ba32-1dd7-4497-9e29-4df239d0d984/public_url
-- [AWS Certified Cloud Practitioner]https://cp.certmetrics.com/amazon/en/public/verify/credential/be158612dd60443d8ef5b7a11324d690
-- [Google Advanced Data Analytics]https://www.coursera.org/account/accomplishments/specialization/R0J2B31APIOD
-- [Certified Scrum Product Owner]https://badgecert.com/bc/html/groupbadges.html?k=Ri9wNFVHK1lOeDhOcnMvWnRZcG9rams0cTkybW0yb2Q
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/af46ba32-1dd7-4497-9e29-4df239d0d984/public_url)
+- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/be158612dd60443d8ef5b7a11324d690)
+- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/R0J2B31APIOD)
+- [Certified Scrum Product Owner](https://badgecert.com/bc/html/groupbadges.html?k=Ri9wNFVHK1lOeDhOcnMvWnRZcG9rams0cTkybW0yb2Q)
 
 ## Education
 - Master of Engineering Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Illinois Tech (_Dec 2024_)
