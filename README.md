@@ -12,7 +12,7 @@
 
 ## Work Experience
 <details>
-<summary><strong>AI Product Manager @ Illinois Institute of Technology (<i>Dec 2024 - Present</i>)</strong></summary>
+<summary><strong>AI Product Manager @ Illinois Tech (<i>Dec 2024 - Present</i>)</strong></summary>
 <ul>
   <li>Prototyped a RAG chatbot using LangChain and Hugging Face, aligning responses with webpages to improve accuracy by 30%</li>
   <li>Developed a Python/ChromaDB knowledge hub with semantic search, cutting query resolution time by 3x for departmental FAQs</li>
@@ -24,7 +24,7 @@
 <br>
 
 <details>
-<summary><strong>Data Analyst @ Illinois Institute of Technology (<i>Apr 2023 - Dec 2024</i>)</strong></summary>
+<summary><strong>Data Analyst @ Illinois Tech (<i>Apr 2023 - Dec 2024</i>)</strong></summary>
 <ul>
   <li>Built an ETL pipeline using Python (Pandas/NumPy) to cut down manual effort by improving operational efficiency by 20%</li>
   <li>Conducted analysis using Python, identifying patterns that improved decision-making by 25%, visualized through Tableau dashboards</li>
