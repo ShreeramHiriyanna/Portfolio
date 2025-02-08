@@ -1,4 +1,4 @@
-# Data Analyst
+# AI Product Manager | Data Analyst
 **Technical Skills:** Python, SQL, AWS, Tableau
 
 **Certifications:**
